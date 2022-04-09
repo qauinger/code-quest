@@ -17,5 +17,6 @@ public class NotSoSelfDriving {
                 System.out.println("SAFE");
             }
         }
+        scanner.close();
     }
 }
