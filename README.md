@@ -1,4 +1,4 @@
 # code-quest
 Lockheed Martin Code Quest 2022 Team Resources
 
-https://lmcodequestacademy.com/quest
+<a href="https://lmcodequestacademy.com/quest" target="_blank">Lockheed Martin Code Quest Academy</a>
