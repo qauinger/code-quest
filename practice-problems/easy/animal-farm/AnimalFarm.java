@@ -1,3 +1,4 @@
+// https://lmcodequestacademy.com/api/static/problems/animal-farm
 import java.util.Scanner;
 
 public class AnimalFarm {
